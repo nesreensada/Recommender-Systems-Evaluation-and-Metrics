@@ -4,4 +4,4 @@ This course is part of the Recommender Systems specialization offered by the Uni
 # The final certificate for the course 
 - [View certificate online](https://coursera.org/share/096d32789f31e37bb87c7cb5f1524f7d)
 
-![NisreinSada_Certificate]()
+![NisreinSada_Certificate](https://github.com/nesreensada/Introduction-to-Recommender-Systems-Nearest-Neighbor-Collaborative-Filtering/blob/master/Screenshot%20from%202020-02-08%2008-16-51.png)
